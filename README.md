@@ -1,5 +1,5 @@
 # spring-boot-redis
-Spring boot redis basic operation
+Using redis as NoSQL DB, basic operations
 
 ## dependencies
 * Kotlin 1.3
@@ -17,3 +17,4 @@ docker run redis
 * [**Jedis**](https://github.com/redis/jedis)
 * [**Spring boot example**](https://www.baeldung.com/spring-data-redis-tutorial)
 * [**Spring boot example 1**](https://stackabuse.com/spring-boot-with-redis-hashoperations-crud-functionality/)
+* [**Redis documentation**](https://redis.io/documentation)
